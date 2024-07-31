@@ -2,7 +2,7 @@ import generate_graph
 import utils_graph
 from enum import Enum, unique
 import numpy as np
-import trusted_nodes.vector as vector
+import vector
 import csv
 import os
 
